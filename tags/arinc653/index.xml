@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ARINC653 on LU Rongguo&#39;s Blog</title>
+    <link>https://github615.github.io/tags/arinc653/</link>
+    <description>Recent content in ARINC653 on LU Rongguo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 09 May 2024 09:56:36 +0800</lastBuildDate><atom:link href="https://github615.github.io/tags/arinc653/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARINC653疑问</title>
+      <link>https://github615.github.io/posts/tech/arinc653%E7%96%91%E9%97%AE/</link>
+      <pubDate>Thu, 09 May 2024 09:56:36 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/tech/arinc653%E7%96%91%E9%97%AE/</guid>
+      <description>1. 如何理解existing process? 在ARINC653的中多次出现existing process，但没有明确的定义。 从existing process的上下文来看，它可能是： 已经create但尚未start的进程 已经start但分区mode尚未是normal的进程 分区mode是normal</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ASIDE on LU Rongguo&#39;s Blog</title>
+    <link>https://github615.github.io/tags/aside/</link>
+    <description>Recent content in ASIDE on LU Rongguo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 09 May 2024 15:17:43 +0800</lastBuildDate><atom:link href="https://github615.github.io/tags/aside/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Splint的移植</title>
+      <link>https://github615.github.io/posts/tech/splint%E7%9A%84%E7%A7%BB%E6%A4%8D/</link>
+      <pubDate>Thu, 09 May 2024 15:17:43 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/tech/splint%E7%9A%84%E7%A7%BB%E6%A4%8D/</guid>
+      <description>1. 简介 Splint（Secure Programming Lint）是美国弗吉尼亚大学计算机系于2002年左右开发的一款C程序静态检查工具。2007年发布3.1.2版。2019年时在该软件的网站上的最后消息是2010年8月发布的。 Splint用以下三种方式进行检查的控制： Flags：Splint支持几百</description>
+    </item>
+    
+  </channel>
+</rss>
