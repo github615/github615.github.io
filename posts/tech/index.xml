@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on LU Rongguo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 22 Jun 2024 17:17:14 +0800</lastBuildDate><atom:link href="https://github615.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 20:00:21 +0800</lastBuildDate><atom:link href="https://github615.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PSS-sdy_opengl_sdd</title>
+      <link>https://github615.github.io/posts/tech/pss-sdy_opengl_sdd/</link>
+      <pubDate>Thu, 26 Sep 2024 20:00:21 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/tech/pss-sdy_opengl_sdd/</guid>
+      <description>PSS-sdy_opengl_sdd是一个基于商用工具SCADE Display（OpenGL）的二次开发项目。 该项目构建的工具可用于生成SCADE Display（OpenGL）软件模型的软件设计文档。其设计思想详见： https://mp.csdn.net/mp_blog/creation/editor/130075655 该工具的编译、运行依赖于SCADE Display R16版，因此其开发者和使</description>
+    </item>
+    
     <item>
       <title>An Effective Case of Code Walkthrough</title>
       <link>https://github615.github.io/posts/tech/an_effective_case_of_code_walkthrough/</link>
