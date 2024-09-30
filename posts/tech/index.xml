@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on LU Rongguo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 26 Sep 2024 20:00:21 +0800</lastBuildDate><atom:link href="https://github615.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 18:52:54 +0800</lastBuildDate><atom:link href="https://github615.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ndb9300public Ndb2excel简介</title>
+      <link>https://github615.github.io/posts/tech/ndb9300public-ndb2excel%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 30 Sep 2024 18:52:54 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/tech/ndb9300public-ndb2excel%E7%AE%80%E4%BB%8B/</guid>
+      <description>1 引言 ndb9300是一个自己定义的机载导航数据库劳作（不敢称为项目）代号，其中3表示是第3种数据库。 多年前，对在役民航客机中的某型机载导航数据库的二进制文件进行分析，弄明白它的数据结构后做了几个工具，现在发布其中一个工具——ndb2excel的源代码。 2 可能的用途 可能的用途之一</description>
+    </item>
+    
     <item>
       <title>PSS-sdy_opengl_sdd</title>
       <link>https://github615.github.io/posts/tech/pss-sdy_opengl_sdd/</link>
