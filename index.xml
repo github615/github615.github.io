@@ -6,7 +6,16 @@
     <description>Recent content on LU Rongguo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 02 Oct 2024 07:28:17 +0800</lastBuildDate><atom:link href="https://github615.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 16:45:43 +0800</lastBuildDate><atom:link href="https://github615.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>进修散忆(4)</title>
+      <link>https://github615.github.io/posts/memoir/%E8%BF%9B%E4%BF%AE%E6%95%A3%E5%BF%864/</link>
+      <pubDate>Mon, 07 Oct 2024 16:45:43 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/memoir/%E8%BF%9B%E4%BF%AE%E6%95%A3%E5%BF%864/</guid>
+      <description>1979.12.31 文化处留管组干部找我们开了一天会，介绍了一些情况，宣布各人的专业去向，还有财务报销制度等等。 中午，到附近的一个超级市场逛了1小时。超市很大，有三层，各种货物琳琅满目，价格换算为人民币就觉得很贵。顾客不少，他们似乎并不在意我们这一群中国人。 巴黎气温不高，外出只需穿两件毛衣，空气潮</description>
+    </item>
+    
     <item>
       <title>进修散忆(3)</title>
       <link>https://github615.github.io/posts/memoir/%E8%BF%9B%E4%BF%AE%E6%95%A3%E5%BF%863/</link>
@@ -22,7 +31,7 @@
       <pubDate>Mon, 30 Sep 2024 18:52:54 +0800</pubDate>
       
       <guid>https://github615.github.io/posts/tech/ndb9300public-ndb2excel%E7%AE%80%E4%BB%8B/</guid>
-      <description>1 引言 ndb9300是一个自己定义的机载导航数据库劳作（不敢称为项目）代号，其中3表示是第3种数据库。 多年前，对在役民航客机中的某型机载导航数据库的二进制文件进行分析，弄明白它的数据结构后做了几个工具，现在发布其中一个工具——ndb2excel的源代码。 2 可能的用途 可能的用途之一</description>
+      <description>1 引言 ndb9300是一个自己定义的机载导航数据库劳作（不敢妄称为项目）代号，其中3表示是第3种数据库。 多年前，对在役民航客机中的某型机载导航数据库的二进制文件进行分析，弄明白它的数据结构后做了几个工具，现在发布其中一个工具——ndb2excel的源代码。 2 可能的用途 可能的用途之</description>
     </item>
     
     <item>
@@ -67,7 +76,7 @@
       <pubDate>Thu, 26 Sep 2024 20:00:21 +0800</pubDate>
       
       <guid>https://github615.github.io/posts/tech/pss-sdy_opengl_sdd/</guid>
-      <description>PSS-sdy_opengl_sdd是一个基于商用工具SCADE Display（OpenGL）的二次开发项目。 该项目构建的工具可用于生成SCADE Display（OpenGL）软件模型的软件设计文档。其设计思想详见： https://mp.csdn.net/mp_blog/creation/editor/130075655 该工具的编译、运行依赖于SCADE Display R16版，因此其开发者和使</description>
+      <description>PSS-sdy_opengl_sdd是一个基于商用工具SCADE Display（OpenGL）的二次开发的产物。 所构建的工具可用于生成SCADE Display（OpenGL）软件模型的软件设计文档。其设计思想详见： https://mp.csdn.net/mp_blog/creation/editor/130075655 该工具的编译、运行依赖于SCADE Display R16版，因此其开发者和使用</description>
     </item>
     
     <item>
