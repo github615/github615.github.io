@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GJB438 on LU Rongguo&#39;s Blog</title>
+    <link>https://github615.github.io/tags/gjb438/</link>
+    <description>Recent content in GJB438 on LU Rongguo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 01 Nov 2024 20:04:39 +0800</lastBuildDate><atom:link href="https://github615.github.io/tags/gjb438/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中国军标GJB438与美国军标DI-IPSC-814XX</title>
+      <link>https://github615.github.io/posts/tech/%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%87gjb-438%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%A0%87di-ipsc-814xx/</link>
+      <pubDate>Fri, 01 Nov 2024 20:04:39 +0800</pubDate>
+      
+      <guid>https://github615.github.io/posts/tech/%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%87gjb-438%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%A0%87di-ipsc-814xx/</guid>
+      <description>中国军标“GJB438C-2021军用软件开发文档通用要求”包含以下附录： 这些附录可在以下美国军标中找到相似格式和文本： 这种相似性在GJB438B-2009就已存在了。 十多年来，简中网络上关于GJB438的帖子数量不少，但是鲜有提及它与美军标的相似性。 于是向AI提了以下问题： 为什</description>
+    </item>
+    
+  </channel>
+</rss>
