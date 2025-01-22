@@ -25,7 +25,7 @@ splint -showcol a.c //在检测a.c时，告警消息中列数不被打印
 splint -varuse a.c //在检测a.c时，告警消息中未使用变量告警不被打印</li><li>splintrc配置文件：在使用源码安装splint之后，splintrc文件将被安装在主目录下，splintrc文件中对一些标志作了默认的设定，命令行中指定的flags标志会覆盖splintrc文件中的标志。</li><li>格式化注释：格式化注释提供一个类型、变量或函数的格外的信息，可以控制标志设置，增加检查效果，所有格式化注释都以/<em>@开始，@</em>/结束，比如在函数参数前加/<em>@null@</em>/，表示该参数可能是NULL，做检测时，Splint会加强对该参数的值的检测。</li></ol><p>Splint检查的内容主要是：</p><ol><li>解引用空指针(Null Dereferences)</li><li>类型(Types)</li><li>内存管理(Memory Management)</li><li>缓存边界(Buffer Sizes)</li><li>宏(Macros)</li><li>函数接口(Function Interfaces)</li><li>控制流(Control Flow)</li></ol><h2 id=2-移植>2. 移植<a hidden class=anchor aria-hidden=true href=#2-移植>#</a></h2><p>2013年开始的移植工作主要是：</p><ol><li>把Splint的构建、运行环境从linux和gcc改为Windows和Visual Studio。</li><li>增加报错信息的中文版。</li><li>增加windows.h的预处理库。</li><li>修正一些bug。</li></ol><p>在此基础上开发了用于ASIDE（一个安全关键系统集成研制环境）的C语言接口模块。</p></div><footer class=post-footer><nav class=paginav><a class=prev href=https://github615.github.io/posts/tech/%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%95%99%E8%AE%AD/><span class=title>« 上一页</span><br><span>搭建本博客的经验教训</span>
 </a><a class=next href=https://github615.github.io/posts/tech/arinc653%E7%96%91%E9%97%AE/><span class=title>下一页 »</span><br><span>关于ARINC653的疑问</span></a></nav></footer></div></article></main><footer class=footer><span>Copyright
 &copy;
-2024-2024
+2024-2025
 <a href=https://github615.github.io/ style=color:#939393>LU Rongguo's Blog</a>
 All Rights Reserved
 </span><a href=https://beian.miit.gov.cn/ target=_blank style=color:#939393></a>&nbsp;
